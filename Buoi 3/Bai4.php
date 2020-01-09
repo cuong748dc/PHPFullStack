@@ -7,8 +7,8 @@ function printStarts()
     }
 }
 
-$s1 = "123";
-$s2 = "1234";
+$s1 = $argv[1];
+$s2 = $argv[2];
 
 printStarts();
 echo "\n";

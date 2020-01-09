@@ -6,7 +6,7 @@ function printStarts()
     }
 }
 
-$n = "hoc php   full stack";
+$n = $argv[1];
 
 printStarts();
 echo "\n";

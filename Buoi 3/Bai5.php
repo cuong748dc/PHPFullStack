@@ -7,7 +7,7 @@ function printStarts()
     }
 }
 
-$email= "123@apextech.edu.vn";
+$email= $argv[1];
 
 printStarts();
 echo "\n";
